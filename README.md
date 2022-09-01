@@ -3,7 +3,7 @@ Nextjs Layout Básico da NLW eSports
 
 ## Como começar
 
-Versão node >= 12.22.0
+Versão node >= 12.22.0.<br />
 Primeiro, instale as dependências
 
 ```bash
@@ -22,7 +22,7 @@ npm run dev
 yarn dev
 ```
 
-Layout simples em Nextjs com Tailwind, apenas para aprendizagem.
+Layout simples em Nextjs com Tailwind, apenas para aprendizagem.<br />
 Não cuidei muito a parte de validações de api e segurança. Apenas layout
 
 ![Tela principal](screen1.png)
